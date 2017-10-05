@@ -1,2 +1,1 @@
-# certgen
-Generate certificates to electronic sign by openssl comands
+Mini Signer File
